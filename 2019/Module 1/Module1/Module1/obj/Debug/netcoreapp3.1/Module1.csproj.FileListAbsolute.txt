@@ -1,0 +1,50 @@
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.exe
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.deps.json
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.runtimeconfig.json
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.runtimeconfig.dev.json
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.pdb
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.AssemblyReference.cache
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.Form1.resources
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.MenuCategory.resources
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.GenerateResource.cache
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfoInputs.cache
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfo.cs
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CoreCompileInputs.cache
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CopyComplete
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.dll
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.pdb
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.genruntimeconfig.cache
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.MenuForm.resources
+C:\Users\SMKN1TJG\source\repos\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.PromotionForm.resources
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.exe
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.deps.json
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.runtimeconfig.json
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.runtimeconfig.dev.json
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\Module1.pdb
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.AssemblyReference.cache
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.Form1.resources
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.MenuCategory.resources
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.MenuForm.resources
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.PromotionForm.resources
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.GenerateResource.cache
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfoInputs.cache
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfo.cs
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CoreCompileInputs.cache
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CopyComplete
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.dll
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.pdb
+E:\Desktop\belajar\Module 1\Module1\Module1\obj\Debug\netcoreapp3.1\Module1.genruntimeconfig.cache

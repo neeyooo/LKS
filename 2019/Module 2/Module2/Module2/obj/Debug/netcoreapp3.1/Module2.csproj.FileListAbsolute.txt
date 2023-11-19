@@ -1,0 +1,69 @@
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.AssemblyReference.cache
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form1.resources
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.GenerateResource.cache
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CopyComplete
+C:\Users\SMKN1TJG\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form2.resources
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\1____DATA____\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.AssemblyReference.cache
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form1.resources
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form2.resources
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.GenerateResource.cache
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CopyComplete
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+I:\1____DATA____\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.AssemblyReference.cache
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form1.resources
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.Form2.resources
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.GenerateResource.cache
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CopyComplete
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+E:\Desktop\belajar\Module 2\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache
